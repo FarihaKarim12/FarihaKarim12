@@ -49,3 +49,4 @@
 
 ### 🗂️ Projects
 - Hotel Management System in C
+- Glow Bean Cafe Website Using HTML, CSS and Java
