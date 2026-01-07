@@ -1,7 +1,7 @@
 # Hi I'm Fariha 👋
 
 ### 👩‍💻 About Me:
-- 👋 Hi, I'm Fariha, a CS undergrad passionate about UI/UX design.
+- 👋 Hi, I'm Fariha, a CS undergrad passionate about frontend development and UI/UX design.
 - 💻 Exploring web development and design.
 - 🌱 Always learning and open to collaboration.
 - 🤝 Let's connect!
@@ -11,7 +11,7 @@
 ### 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-karimfariha30@gmail.com-blue?style=flat&logo=gmail)](mailto:karimfariha30@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fariha-karim)
-
+[![Behance](https://img.shields.io/badge/Behance-blue?style=flat&logo=behance)](https://www.behance.net/farihakarim12)
 ---
 
 ## 💻 Tech Stack
@@ -20,7 +20,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=yellow)
+![Assembly](https://img.shields.io/badge/x86%20Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
 
 ---
 
@@ -40,9 +42,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Fariha's GitHub stats](https://github-readme-stats.vercel.app/api?username=farihakarim&show_icons=true&theme=tokyonight)
