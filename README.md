@@ -1,7 +1,7 @@
 # Hi I'm Fariha 👋
 
 ### 👩‍💻 About Me:
-- 👋 Hi, I'm Fariha, a CS undergrad passionate about frontend development and UI/UX design.
+- 👋 Hi, I'm Fariha, a CS undergrad passionate about web development and UI/UX design.
 - 💻 Exploring web development and design.
 - 🌱 Always learning and open to collaboration.
 - 🤝 Let's connect!
