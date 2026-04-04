@@ -1,4 +1,4 @@
-# 👩‍💻 About Me:
+# 👩🏻‍💻 About Me:
 - 🔭 I’m currently working on web development and design
 - 💻 I'm currently learning Artificial Intelligence and Machine Learning
 - 🌱 Always learning and open to collaboration.
