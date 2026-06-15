@@ -7,7 +7,7 @@
 # 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-karimfariha30@gmail.com-blue?style=flat&logo=gmail)](mailto:karimfariha30@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fariha-karim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)](https://farihakarim12.github.io/ApexcifyTechnologys_MyPortfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)](https://farihakarim12.github.io/My_Portfolio/)
 
 # 💻 Tech Stack
 
