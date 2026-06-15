@@ -1,5 +1,6 @@
 # 👩🏻‍💻 About Me:
-- 💻 I’m currently working on AI/ML and web development
+- 💻 A creative thinker, curious learner, and problem solver who enjoys tackling challenges and continuously improving
+- 🔭 Currently focused on strengthening my skills in AI engineering and web development
 - 🌱 Always learning and open to collaboration
 - ⚡ Fact about me: I am also an all-rounder in sports and a content creator on Instagram :D
 
