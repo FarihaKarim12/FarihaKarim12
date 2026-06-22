@@ -42,7 +42,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FarihaKarim12&theme=algolia" alt="GitHub Streak" /></a>
 </td>
 <td valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarihaKarim12&theme=algolia" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarihaKarim12&layout=compact&theme=algolia" />
 </td>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarihaKarim12&theme=github-dark" alt="Activity Graph" />
