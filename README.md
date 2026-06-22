@@ -2,7 +2,6 @@
 - 💻 A creative thinker, curious learner, and problem solver who enjoys tackling challenges and continuously improving
 - 🔭 Currently focused on strengthening my skills in AI engineering and web development
 - 🌱 Always learning and open to collaboration
-- ⚡ Fact about me: I am also an all-rounder in sports and a content creator on Instagram :D
 
 # 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-karimfariha30@gmail.com-blue?style=flat&logo=gmail)](mailto:karimfariha30@gmail.com)
