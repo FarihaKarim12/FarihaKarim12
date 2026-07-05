@@ -37,12 +37,21 @@
 ![Supabase](https://img.shields.io/badge/supabase-%2300E9A3.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 # 📊 GitHub Stats
+
+<table>
+<tr>
 <td valign="top">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FarihaKarim12&theme=algolia" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+<img height="180em" src="https://streak-stats.demolab.com?user=FarihaKarim12&theme=algolia" alt="GitHub Streak"/>
+</a>
 </td>
+
 <td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarihaKarim12&layout=compact&theme=algolia" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FarihaKarim12&layout=compact&theme=algolia" />
 </td>
+</tr>
+</table>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarihaKarim12&theme=github-dark" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FarihaKarim12&theme=github-dark" alt="Activity Graph"/>
 </div>
