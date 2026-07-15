@@ -28,7 +28,7 @@ const fariha = {
     systemsAndLowLevel: ["C / C++", "Assembly x86"],
   },
   launchedProjects: ["Exlr AI", "Trip Planner Agent"],
-  certifications: [Python, AI Fluency: Framework & Foundations],
+  certifications: ["Python", "AI Fluency: Framework & Foundations"],
   status: "Building AI-powered products while studying CS",
   openTo: ["Full-Time Roles", "Internships", "Freelance Projects", "Collaboration"],
 };
