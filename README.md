@@ -38,21 +38,21 @@ const fariha = {
 
 ## 🛠️ Tech Stack
 
-**AI & Machine Learning**
+**AI/ML & Data Science**
 
-![](https://skillicons.dev/icons?i=py,sklearn)
+![](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow)
 
-**Frontend & UI**
+**Web Development**
 
-![](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js)
+![](https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,html,css,js)
 
-**Databases**
+**Backend**
 
-![](https://skillicons.dev/icons?i=postgres,mysql,supabase)
+![](https://skillicons.dev/icons?i=flask,postgres,mysql,fastapi,supabase)
 
 **DevOps & Tools**
 
-![](https://skillicons.dev/icons?i=git,github,vercel,vscode)
+![](https://skillicons.dev/icons?i=git,github,vercel,vscode,docker,aws)
 
 **Systems & Low-Level**
 
