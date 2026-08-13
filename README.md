@@ -19,18 +19,11 @@
 
 ```typescript
 const fariha = {
-  title: "CS Student | Full Stack Developer & AI/ML Engineer",
-  stack: {
-    ai_ml: ["Python", "Groq API (Llama 3.3)", "OpenAI API", "Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn"],
-    frontend: ["React 19", "Next.js 16", "TypeScript", "Tailwind CSS", "HTML5", "CSS3", "JavaScript"],
-    databases: ["PostgreSQL", "MySQL", "Supabase"],
-    devopsAndTools: ["Git / GitHub", "Vercel", "VS Code", "PyCharm", "Jupyter Notebook"],
-    systemsAndLowLevel: ["C / C++", "Assembly x86"],
-  },
-  launchedProjects: ["Exlr AI", "Trip Planner Agent"],
+  title: "CS Student | AI Engineer",
+  launchedProjects: ["Exlr AI"],
   certifications: ["Python", "AI Fluency: Framework & Foundations"],
-  status: "Building AI-powered products while studying CS",
-  openTo: ["Full-Time Roles", "Internships", "Freelance Projects", "Collaboration"],
+  competitions: ["Speed Programming", "Competitive Programming"],
+  openTo: ["Internships", "Freelance Projects", "Collaboration"],
 };
 ```
 
@@ -40,24 +33,52 @@ const fariha = {
 
 **AI/ML & Data Science**
 
-![](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 **Web Development**
 
-![](https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,html,css,js)
+![React](https://img.shields.io/badge/React%2019-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js%2016-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 **Backend**
 
-![](https://skillicons.dev/icons?i=flask,postgres,mysql,fastapi,supabase)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300ADD8.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq%20API-%23F55036.svg?style=for-the-badge&logo=groq&logoColor=white)
+![Llama 3.3](https://img.shields.io/badge/Llama%203.3-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 **DevOps & Tools**
 
-![](https://skillicons.dev/icons?i=git,github,vercel,vscode,docker)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Tensors](https://img.shields.io/badge/Tensors-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Systems & Low-Level**
 
-![](https://skillicons.dev/icons?i=c,cpp)
-
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/x86%20Assembly-%23007ACC.svg?style=for-the-badge&logo=assembly&logoColor=white)
 <br/>
 
 ## 📊 GitHub Stats
