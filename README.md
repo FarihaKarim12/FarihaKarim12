@@ -52,7 +52,7 @@ const fariha = {
 
 **DevOps & Tools**
 
-![](https://skillicons.dev/icons?i=git,github,vercel,vscode,docker,aws)
+![](https://skillicons.dev/icons?i=git,github,vercel,vscode,docker)
 
 **Systems & Low-Level**
 
