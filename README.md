@@ -107,6 +107,7 @@ const fariha = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/fariha-karim-387090296/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-a78bfa?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/farihak12/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=black)](https://fariha-karim-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=black)](mailto:karimfariha30@gmail.com)
 
