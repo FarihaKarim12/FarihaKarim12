@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:f472b6&height=220&section=header&text=Fariha%20Karim&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20-%20Aspiring%20AI%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:7c3aed,100:f472b6&height=220&section=header&text=Fariha%20Karim&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20-%20Software%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Building+AI-powered+full-stack+apps;Shipped+Exlr+AI+for+AKUEB+students;Building+clean+and+intelligent+web+experiences" alt="Typing SVG" />
 
@@ -56,8 +56,6 @@ const fariha = {
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300ADD8.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq%20API-%23F55036.svg?style=for-the-badge&logo=groq&logoColor=white)
-![Llama 3.3](https://img.shields.io/badge/Llama%203.3-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
 **DevOps & Tools**
