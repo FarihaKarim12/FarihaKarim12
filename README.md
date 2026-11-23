@@ -19,7 +19,8 @@
 
 ```typescript
 const fariha = {
-  title: "CS Student | AI Engineer",
+  title: "CS Student |
+Software Engineer",
   launchedProjects: ["Exlr AI"],
   certifications: ["Python", "AI Fluency: Framework & Foundations"],
   competitions: ["Speed Programming", "Competitive Programming"],
